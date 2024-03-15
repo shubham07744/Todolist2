@@ -4,12 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/public
-/src/index.css
-/package-lock.json
-/src/reportWebVitals.js
-/src/setupTests.js
-/src/index.js
+
 
 # testing
 /coverage
